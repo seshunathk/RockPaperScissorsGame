@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">200430244Midterm</string>
+    <string name="app_title">Android Rock, Paper, Scissors</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="android_choice">Android Chooses:</string>
+    <string name="play_button">PLAY</string>
+    <string name="reset_button">RESET</string>
+
+    <string-array name="choices">
+        <item>Rock</item>
+        <item>Paper</item>
+        <item>Scissors</item>
+    </string-array>
+</resources>

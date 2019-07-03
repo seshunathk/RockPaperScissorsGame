@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205209078746",
+    "firebase_url": "https://midterm-60b8f.firebaseio.com",
+    "project_id": "midterm-60b8f",
+    "storage_bucket": "midterm-60b8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205209078746:android:7467faa759bd134f",
+        "android_client_info": {
+          "package_name": "com.example.a200430244midterm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205209078746-5jnp5gusa57qi34f8fll1t06jgh0hkvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a200430244midterm",
+            "certificate_hash": "45d098ccdaffaf894f1d18447ee7e4bcf65bea2e"
+          }
+        },
+        {
+          "client_id": "205209078746-suhdfqkkggk4hfrvfno4qdv5jhj4ap9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzCPNy9H1kccDUEfJdv9Z_0_hjVTm3Rpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205209078746-suhdfqkkggk4hfrvfno4qdv5jhj4ap9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
